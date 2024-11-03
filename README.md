@@ -33,12 +33,12 @@ Cada universo oferece uma experiência única, permitindo aos usuários navegar 
 
 Utilizamos o Figma para prototipar o design do projeto, permitindo uma visualização clara e intuitiva das interfaces de usuário. Confira o protótipo:
 
-👉 [Figma - Multiverso Spider-Man](https://www.figma.com/design/GjvdE0uob68X6pEHqw2pY8/Multiverse-Spider-Man?node-id=1-17&node-type=canvas&t=nEroOrFmnT2JSIDX-0) *(https://www.figma.com/design/GjvdE0uob68X6pEHqw2pY8/Multiverse-Spider-Man?node-id=1-17&node-type=canvas&t=nEroOrFmnT2JSIDX-0)*
+👉 [Figma - Multiverso Spider-Man](https://www.figma.com/design/GjvdE0uob68X6pEHqw2pY8/Multiverse-Spider-Man?node-id=1-17&node-type=canvas&t=nEroOrFmnT2JSIDX-0)
 
 ## 🚧 Como usar
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seuusuario/stranger-things-fan-page.git
+   git clone https://github.com/MyckaelAndrade/spider-man-multiverses.git
 
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir com melhorias ou novos recursos! ✨ Crie um fork do projeto, faça suas alterações e envie um pull request.
